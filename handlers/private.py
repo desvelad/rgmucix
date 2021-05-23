@@ -18,7 +18,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /pause - Şarkıyı durdurur.
 💠 /resume - Şarkıyı devam ettirir.
 💠 /skip - Diğer şarkıya geçer.
-💠 /stop - Botu kapatır.
+💠 /end - Botu kapatır.
 💠 /song - Şarkı aratır.
 
 🤖 @EfsaneStar tarafından @Sohbetskyfall grubuna özel kodlanmıştır.
