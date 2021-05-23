@@ -40,10 +40,10 @@ async def resume(_, message: Message):
         await message.reply_text(f"`Müziğe devam ediliyor...`")
 
 
-@Client.on_message(command("stop") & other_filters)
+@Client.on_message(command("end") & other_filters)
 @errors
 @authorized_users_only
-async def stop(_, message: Message):
+async def end(_, message: Message):
     if message.chat.id not in callsmusic.pytgcalls.active_calls:
         await message.reply_text(f"`Bot zaten çalışmıyor usta🤷‍♂`")
     else:
