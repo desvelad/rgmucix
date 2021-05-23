@@ -21,7 +21,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
-🤖 @Zep_Unb tarafından @AtAvratCheesecake grubuna özel kodlanmıştır.
+🤖 @EfsaneStar tarafından @Sohbetskyfall grubuna özel kodlanmıştır.
 
 **Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
         """,
@@ -29,10 +29,10 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz", url="https://t.me/AtAvratCheesecake"
+                        "Sohbet Grubumuz", url="https://t.me/sohbetskyfall"
                     ),
                     InlineKeyboardButton(
-                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber"
+                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/EfsaneStar"
                     )
                 ]
             ]
