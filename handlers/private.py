@@ -20,6 +20,9 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /skip - Diğer şarkıya geçer.
 💠 /end - Botu kapatır.
 💠 /song - Şarkı aratır.
+💠 /arama - Şarkıyı youtube üzerinden link olarak sıralar.
+💠 /userbotjoin - Asistanı sohbete davet etmek için. 
+💠 /userbotleave - Asistanı sohbetten çıkartmak için. 
 
 🤖 @EfsaneStar tarafından @Sohbetskyfall grubuna özel kodlanmıştır.
 
