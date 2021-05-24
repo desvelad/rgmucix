@@ -24,7 +24,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /userbotjoin - Asistanı sohbete davet etmek için. 
 💠 /userbotleave - Asistanı sohbetten çıkartmak için. 
 
-🤖 @EfsaneStar tarafından @Sohbetskyfall grubuna özel kodlanmıştır.
+🤖 @Mehmett_12 tarafından @RgSohbet grubuna özel kodlanmıştır.
 
 **Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
         """,
@@ -32,10 +32,10 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz", url="https://t.me/sohbetskyfall"
+                        "Sohbet Grubumuz", url="https://t.me/RgSohbet"
                     ),
                     InlineKeyboardButton(
-                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/EfsaneStar"
+                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/Mehmett_12"
                     )
                 ]
             ]
